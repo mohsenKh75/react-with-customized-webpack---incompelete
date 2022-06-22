@@ -1,0 +1,11 @@
+{
+  "projectName": "react-bootstrap",
+  "meta": {
+    "type": "wordpress",
+    "starter": "wp-free-starter"
+  },
+  "hash": "9f9bc613",
+  "wordpress": {
+    "email": "mohsenpm77@gmail.com"
+  }
+}
